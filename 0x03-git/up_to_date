@@ -1,2 +1,2 @@
-<git command line used>
+echo "git pull origin master" > up_to_date
 
