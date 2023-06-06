@@ -1,1 +1,2 @@
-touch up_to_date
+echo "<git command line used>" > up_to_date
+
